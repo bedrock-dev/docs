@@ -6,6 +6,7 @@
 - [[BE] 通过折跃门跨版本定向获取任意非法方块](https://www.bilibili.com/read/cv18560132) @panda4994万岁
 - [MCBE 折学（折跃门科学）研究](https://www.bilibili.com/read/cv16696653) @xiaoqch
 
+
 ### 世界生成
 - [如何找到自带11个末影之眼的传送门](https://docs.google.com/document/d/11xJoyOoc-G7PTWIEeMtnHiTDHaKxsUlfHTkCBTofg30/edit#)
 - [喜 报-基岩版中多连刷怪结构的探索](https://www.bilibili.com/read/cv5434192) @SAC
@@ -20,12 +21,23 @@
 - [[MCBE][水]部分树苗的生长机制](https://www.bilibili.com/read/cv4361187) @origin0110
 
 ### 红石
-- [MCBE红石系统运行不完全分析(1)](https://www.bilibili.com/read/cv7581645) @hhhxiao
-- [MCBE红石系统运行不完全分析(4)——活塞](https://www.bilibili.com/read/cv13617717)  @hhhxiao
-- [MCBE红石系统运行不完全分析(2)](https://www.bilibili.com/read/cv7876046)  @hhhxiao
-- [MCBE红石系统运行不完全分析(3)](https://www.bilibili.com/read/cv10907045)  @hhhxiao
-- [Minecraft基岩版红石系统设计简述](https://www.bilibili.com/read/cv23851750)  @hhhxiao
-- [[mcbe]关于漏斗的一些特性分析](https://www.bilibili.com/read/cv16438222) @Maple_枫溪
+
+- [MCBE红石系统运行不完全分析系列](#) @hhhxiao
+
+    - [MCBE红石系统运行不完全分析(1)](https://www.bilibili.com/read/cv7581645) 
+    - [MCBE红石系统运行不完全分析(2)](https://www.bilibili.com/read/cv7876046)  
+    - [MCBE红石系统运行不完全分析(3)](https://www.bilibili.com/read/cv10907045) 
+    - [MCBE红石系统运行不完全分析(4)——活塞](https://www.bilibili.com/read/cv13617717)  
+    - [Minecraft基岩版红石系统设计简述](https://www.bilibili.com/read/cv23851750) 
+
+- [漏斗特性分析系列](#) @叼叼的名字
+    - [常见漏斗行为简述](https://www.bilibili.com/read/cv10249803)
+    - [关于掉落物的简单研究 ep.1 由限位讲掉落物碰撞箱](https://www.bilibili.com/read/cv16215603)
+    - [关于掉落物的简单研究 ep.2 由挤压简述掉落物运动](https://www.bilibili.com/read/cv19295223)
+    - [关于掉落物的简单研究 ep.3 掉落物的生成与合并](https://www.bilibili.com/read/cv19404339)
+    
+
+- [关于漏斗的一些特性分析](https://www.bilibili.com/read/cv16438222) @Maple_枫溪
 - [[MCBE][水]TNT推进计算](https://www.bilibili.com/read/cv6010181) @origin0110
 
 ### 村庄
@@ -36,7 +48,6 @@
 
 ### 其他
 - [ [BE]获取无名物品以及碎碎念](https://www.bilibili.com/read/cv16942297) @panda4994万岁
-
 
 ### 数据与工具
 
