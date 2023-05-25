@@ -1,3 +1,5 @@
+## 机制解析
+
 ### 世界运行
 
 - [世界是如何运行的--MCBE方块更新机制不完整分析](https://www.bilibili.com/read/cv6013612) @hhhxiao
@@ -35,3 +37,9 @@
 
 ### 其他
 - [ [BE]获取无名物品以及碎碎念](https://www.bilibili.com/read/cv16942297) @panda4994万岁
+
+
+### 数据与工具
+- [BDS符号导出数据](https://redbeanw44602.github.io/mcstructure/)
+- [末地折跃门助手](https://xiaoqch.github.io/)
+- [1.18方块材质表](https://xiaoqch.github.io/blocks.html)
