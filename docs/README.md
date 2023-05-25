@@ -5,10 +5,11 @@
 - [[BE] 通过折跃门跨版本定向获取任意非法方块](https://www.bilibili.com/read/cv18560132) @panda4994万岁
 - [MCBE 折学（折跃门科学）研究](https://www.bilibili.com/read/cv16696653) @xiaoqch
 
-
+### 世界生成
+- [如何找到自带11个末影之眼的传送门](https://docs.google.com/document/d/11xJoyOoc-G7PTWIEeMtnHiTDHaKxsUlfHTkCBTofg30/edit#)
+- [喜 报-基岩版中多连刷怪结构的探索](https://www.bilibili.com/read/cv5434192) @SAC
 
 ### 刷怪
-- [喜 报-基岩版中多连刷怪结构的探索](https://www.bilibili.com/read/cv5434192) @SAC
 - [《猪门的世界》用命令门解密闪门猪人塔](https://www.bilibili.com/read/cv23890717)@云心舟
 - [【MCBE】生成机制讲解（1.16.40）](https://www.bilibili.com/read/cv12809481) @orange_31
 - [[MCBE][水]SlimeChunkFinder——史莱姆区块寻找计划(2)](https://www.bilibili.com/read/cv4643505)@origin0110
